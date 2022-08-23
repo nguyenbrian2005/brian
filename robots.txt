@@ -1,1 +1,1 @@
-Sitemap: https://fastpages.fast.ai/sitemap.xml
+Sitemap: https://nguyenbrian2005.github.io/brian/sitemap.xml
